@@ -40,3 +40,4 @@ if len(profile_names) != 0:
 
 for x in range(len(wifi_list)):
     print(wifi_list[x])
+#this code was originally created by david bombal (credits to David Bombal) 
